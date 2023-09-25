@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Messapia';
+    src: url('Messapia-Regular.eot');
+    src: local('Messapia Regular'), local('Messapia-Regular'),
+        url('Messapia-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Messapia-Regular.woff2') format('woff2'),
+        url('Messapia-Regular.woff') format('woff'),
+        url('Messapia-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Messapia';
+    src: url('Messapia-Bold.eot');
+    src: local('Messapia Bold'), local('Messapia-Bold'),
+        url('Messapia-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Messapia-Bold.woff2') format('woff2'),
+        url('Messapia-Bold.woff') format('woff'),
+        url('Messapia-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
